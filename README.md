@@ -1,0 +1,2 @@
+# LE-iOS-Lib
+LiveEnsure® authenticates users and their mobile devices across device, location, behavior(3 pattern), time, wearable devices, biometric authentication and knowledge factors with a simple API and an elegant mobile app. Developers mashup the API with their site or host app and end users imply scan the screen or tap to authenticate via four dimensions of security. LiveEnsure® protects both privacy and authenticity online.
