@@ -1,0 +1,6 @@
+framework module LiveEnsureSDK {
+  umbrella header "LiveEnsureSDK.h"
+
+  export *
+  module * { export * }
+}
